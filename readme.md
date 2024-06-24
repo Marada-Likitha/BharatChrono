@@ -1,9 +1,7 @@
-<<<<<<< HEAD
 # BharatChrono
 
 BharatChrono is an Indian Historical Events Information Retrieval system done using Python, Jupyter Notebook, BeautifulSoup, pandas, scikit, nltk.
 =======
->>>>>>> bc55aca688959261a5176f75450828a7c67a24d2
 
 ## About
 
