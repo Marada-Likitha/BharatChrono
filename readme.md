@@ -1,12 +1,17 @@
-##BharatChrono
+<<<<<<< HEAD
+# BharatChrono
 
 BharatChrono is an Indian Historical Events Information Retrieval system done using Python, Jupyter Notebook, BeautifulSoup, pandas, scikit, nltk.
+=======
+>>>>>>> bc55aca688959261a5176f75450828a7c67a24d2
 
-I have used tf-idf and cosine similarity.
+## About
+
+BharatChrono is an Indian Historical Events Information Retrieval system done using Python, Jupyter Notebook, BeautifulSoup, pandas, scikit, nltk.I have used tf-idf and cosine similarity.
 
 The output includes an event image, a brief summary, and a Wikipedia link, with events ranked by importance.
 
-Output - 
+## Output - 
 
 So this the input box where the user has to type the event name or the brief description about 
 the event. 
